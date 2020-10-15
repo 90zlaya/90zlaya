@@ -1,7 +1,7 @@
-![](https://komarev.com/ghpvc/?username=90zlaya&color=blue&label=Profile%20Views)
-![](https://img.shields.io/github/followers/90zlaya?color=blue&label=GitHub%20Followers)
-![](https://img.shields.io/github/stars/90zlaya?color=blue&label=GitHub%20Stars)
-![](https://img.shields.io/twitter/follow/90zlaya?style=social)
+[![](https://komarev.com/ghpvc/?username=90zlaya&color=blue&label=Profile%20Views)](https://github.com/90zlaya/90zlaya)
+[![](https://img.shields.io/github/followers/90zlaya?style=social)](https://github.com/90zlaya)
+[![](https://img.shields.io/github/stars/90zlaya?affiliations=OWNER%2CCOLLABORATOR&style=social)](https://github.com/90zlaya)
+[![](https://img.shields.io/twitter/follow/90zlaya?style=social)](https://twitter.com/90zlaya)
 
 ## Hi there, I'm [Zlatan Stajić] 👋
 
