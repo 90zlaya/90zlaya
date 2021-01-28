@@ -19,7 +19,7 @@
 
 ### My Work  :chart_with_upwards_trend:
 
-[![](https://img.shields.io/badge/download%20cv-%2092E20.svg?&style=for-the-badge&logoColor=white&color=green)](http://link.zlatanstajic.com/documents/CV_-_Zlatan_Stajic.pdf)
+[![](https://img.shields.io/badge/download%20cv-%2092E20.svg?&style=for-the-badge&logoColor=white&color=green)](http://www.zlatanstajic.com/documents/CV_-_Zlatan_Stajic.pdf)
 [![](https://img.shields.io/badge/export%20portfolio-%2092E20.svg?&style=for-the-badge&logoColor=white&color=green)](https://www.zlatanstajic.com/submit/export)
 
 <img align="left" alt="Zlatan Stajić's Github Stats" src="https://github-readme-stats.vercel.app/api?username=90zlaya&show_icons=true&hide_border=true" />
