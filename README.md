@@ -17,9 +17,9 @@
 [![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee)](https://twitter.com/90zlaya) 
 [![](https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=8a3ab9)](https://instagram.com/90zlaya)
 
-### My Work  :chart_with_upwards_trend:
+### My Work :chart_with_upwards_trend:
 
 [![](https://img.shields.io/badge/download%20cv-%2092E20.svg?&style=for-the-badge&logoColor=white&color=green)](http://www.zlatanstajic.com/documents/CV_-_Zlatan_Stajic.pdf)
-[![](https://img.shields.io/badge/export%20portfolio-%2092E20.svg?&style=for-the-badge&logoColor=white&color=green)](https://www.zlatanstajic.com/submit/export)
+[![](https://img.shields.io/badge/export%20portfolio-%2092E20.svg?&style=for-the-badge&logoColor=white&color=green)](https://www.zlatanstajic.com/fetch/portfolio-export)
 
 <img align="left" alt="Zlatan Stajić's Github Stats" src="https://github-readme-stats.vercel.app/api?username=90zlaya&show_icons=true&hide_border=true" />
