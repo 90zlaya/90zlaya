@@ -7,7 +7,6 @@
 
 - ✨ Created [PHP Library](https://php-library.zlatanstajic.com/)
 - :checkered_flag: Completed [Breaking Bad Info](https://breakingbadinfo.netlify.app) app
-- :dart: Next goal is to create [Laravel](https://laravel.com/) project
 - 💬 Ask me about [Ultimate Cheatsheet](https://github.com/90zlaya/ultimate-cheatsheet-for-developers)
 - ⚡ Fun fact: I run [half marathons](https://en.wikipedia.org/wiki/Half_marathon)
 
